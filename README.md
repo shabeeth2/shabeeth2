@@ -245,5 +245,5 @@ I'm open to **mentoring**, **speaking on GenAI/Agentic AI and backend architectu
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
-<sub>⭐️ From ideation to production — building AI systems that ship. Last updated: July 2026</sub>
+<sub>⭐️ From ideation to production — building AI systems that ship. Last updated: July 12 2026</sub>
 </div>
