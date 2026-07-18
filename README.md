@@ -240,6 +240,7 @@ I'm open to **mentoring**, **speaking on GenAI/Agentic AI and backend architectu
 
 </div>
 
+
 <br/>
 
 <div align="center">
