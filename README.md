@@ -42,7 +42,7 @@ B.Tech, Artificial Intelligence and Data Science, SNS College of Engineering, Co
 ## Certifications
 
 - Claude Certified Architect - Professional, Anthropic. Issued Aug 2026; valid through Aug 2027.
-- Google Cloud Generative AI Leader. Issued Mar 2026.
+- Google Cloud Generative AI Leader. Issued Feb 2026.
 - Microsoft Certified: Azure AI Fundamentals (AI-900). Issued May 2024.
 
 ## Connect
