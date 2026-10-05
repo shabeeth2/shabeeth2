@@ -1,3 +1,16 @@
+<p align="center"><img src="cyber-profile-visual.png" alt="Mohamed Shabeeth N: cyber profile with ASCII name, language stack, Talk2Data, SpecExec, Duet, yargs and txtai cards" width="940"></p>
+<p align="center">
+  <a href="https://github.com/shabeeth2/talk2data-agents">Talk2Data</a> Â·
+  <a href="https://github.com/shabeeth2/specexec">SpecExec</a> Â·
+  <a href="https://github.com/shabeeth2/duet">Duet</a><br>
+  <a href="https://github.com/yargs/yargs/pull/2609">yargs #2609 - merged</a> Â·
+  <a href="https://github.com/neuml/txtai/pull/1337">txtai #1337 - merged</a>
+</p>
+<p align="center"><a href="https://linkedin.com/in/shabeeth">LinkedIn</a></p>
+
+<details>
+<summary>About, project details, skills and qualifications</summary>
+
 # Mohamed Shabeeth N
 
 AI Engineer at Tata Consultancy Services, Chennai, India.
@@ -48,3 +61,20 @@ B.Tech, Artificial Intelligence and Data Science, SNS College of Engineering, Co
 ## Connect
 
 https://linkedin.com/in/shabeeth
+
+### Duet
+
+A local-first editor for human-AI collaboration on HTML artifacts. Review sessions track annotations, revisions, feedback, agent messages and approval.
+
+https://github.com/shabeeth2/duet
+
+### Open-source contributions
+
+- [yargs/yargs #2609](https://github.com/yargs/yargs/pull/2609), merged 4 Oct 2026: shell-completion installation example corrected to append instead of overwriting shell configuration.
+- [neuml/txtai #1337](https://github.com/neuml/txtai/pull/1337), merged 5 Oct 2026: workflow input example corrected to match the existing code sample.
+
+### Language Stack methodology
+
+Snapshot: 5 Oct 2026. GitHub language-byte shares are normalized inside each public, non-fork repository with detected code, then averaged with equal repository weight (23 repos). Repositories without detected code are excluded. This chart describes code composition, not skill or proficiency. Other includes HTML, JavaScript and Shell. Bars are static until regenerated.
+
+</details>
