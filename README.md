@@ -1,4 +1,109 @@
-<p align="center"><img src="cyber-profile-visual.png" alt="Mohamed Shabeeth N: cyber profile with ASCII name, language stack, Talk2Data, SpecExec, Duet, yargs and txtai cards" width="940"></p>
+```text
+╭────────────────────────────────────────────────────────────────╮
+│ ● ● ●  profile.sh                                              │
+├────────────────────────────────────────────────────────────────┤
+│ shabeeth2@github:~$ ./whoami                                   │
+│                                                                │
+│  __  __  ___  _  _   _   __  __ ___ ___                        │
+│ |  \/  |/ _ \| || | /_\ |  \/  | __|   \                       │
+│ | |\/| | (_) | __ |/ _ \| |\/| | _|| |) |                      │
+│ |_|  |_|\___/|_||_/_/ \_\_|  |_|___|___/                       │
+│                                                                │
+│                                                                │
+│  ___ _  _   _   ___ ___ ___ _____ _  _                         │
+│ / __| || | /_\ | _ ) __| __|_   _| || |                        │
+│ \__ \ __ |/ _ \| _ \ _|| _|  | | | __ |                        │
+│ |___/_||_/_/ \_\___/___|___| |_| |_||_|                        │
+│                                                                │
+│                                                                │
+│ AI Engineer  /  RAG + agents + backend                         │
+│ Chennai, India  /  TCS                                         │
+╰────────────────────────────────────────────────────────────────╯
+```
+
+### `~/stack` · Technology stack
+
+```text
+LANGUAGES  Python · Java · SQL
+AI         LangChain · LangGraph · MCP
+RAG        Gemini · Vertex AI Vector Search · RAGAS
+API / DATA FastAPI · Spring Boot · PostgreSQL
+DELIVERY   Docker · Jenkins · GitHub Actions · Git
+```
+
+### `~/languages` · Public repository code
+
+```text
+Python  /  Jupyter Notebook  /  TypeScript  /  JavaScript  /  Java
+```
+
+Python and notebooks lead the public repository list. Languages describe
+code, not skill proficiency. SQL is listed above as a skill, not a GitHub
+primary-language percentage.
+
+### `~/projects` · Personal builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [01 / Talk2Data](https://github.com/shabeeth2/talk2data-agents)
+
+Data investigation with tool-calling agents, read-only SQL and evidence-backed dashboards.
+
+`Python` `FastAPI` `Next.js` `MCP`
+
+</td>
+<td width="50%" valign="top">
+
+#### [02 / SpecExec](https://github.com/shabeeth2/specexec)
+
+Speculative read-only tool execution during streamed generation, with exact-cache reuse and final-script replay.
+
+`Python` `asyncio` `AST`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### [03 / Duet](https://github.com/shabeeth2/duet)
+
+A local-first editor for human-AI collaboration on HTML artifacts: annotations, revisions, feedback and review sessions.
+
+`Python` `FastAPI` `SSE` `Playwright`
+
+</td>
+</tr>
+</table>
+
+### `~/open-source` · Documentation contributions
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [yargs / #2609](https://github.com/yargs/yargs/pull/2609)
+
+Shell-completion install example: append to shell configuration instead of overwriting it.
+
+`documentation` `contributor`
+
+</td>
+<td width="50%" valign="top">
+
+#### [txtai / #1337](https://github.com/neuml/txtai/pull/1337)
+
+Workflow input example corrected to match the existing code sample.
+
+`documentation` `contributor`
+
+</td>
+</tr>
+</table>
+
+---
+
 <p align="center">
   <a href="https://github.com/shabeeth2/talk2data-agents">Talk2Data</a> &middot;
   <a href="https://github.com/shabeeth2/specexec">SpecExec</a> &middot;
