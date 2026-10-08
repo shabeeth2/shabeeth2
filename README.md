@@ -40,6 +40,47 @@ https://github.com/shabeeth2/talk2data-agents
 
 ### SpecExec
 
+<p align="center">
+  <a href="https://github.com/shabeeth2/talk2data-agents">Talk2Data</a> &middot;
+  <a href="https://github.com/shabeeth2/specexec">SpecExec</a> &middot;
+  <a href="https://github.com/shabeeth2/duet">Duet</a><br>
+  <a href="https://github.com/yargs/yargs/pull/2609">yargs #2609 - merged</a> &middot;
+  <a href="https://github.com/neuml/txtai/pull/1337">txtai #1337 - merged</a>
+</p>
+<p align="center"><a href="https://linkedin.com/in/shabeeth">LinkedIn</a></p>
+
+<details>
+<summary>About, project details, skills and qualifications</summary>
+
+# Mohamed Shabeeth N
+
+AI Engineer at Tata Consultancy Services, Chennai, India.
+
+## About me
+
+I build AI application components for production enterprise RAG and backend integrations. My RAG work covers retrieval, prompts, grounding checks, guardrails and evaluation using LangChain, Gemini and Vertex AI Vector Search. My contribution is the AI application layer, not cloud infrastructure or operations ownership.
+
+I also build Java and Spring Boot modules with Kafka for production data migration and synchronization, and work on regression validation for migration releases. My ticket-assistance work is a prototype, with classification, similar-case retrieval and human review.
+
+Employment: Tata Consultancy Services, Sep 2024 - Present.
+
+## Highlights
+
+- Winner, AI Fridays Innovator Award, TCS (2025).
+- On the Spot (Team) Award, TCS, 3 Mar 2026, for a rapid prototype built and presented as a team.
+- tcsAI Idea Igniter, TCS, 4 Nov 2025: hackathon idea selected among top entries.
+- Delivered GenAI and AI engineering sessions for TCS associates.
+
+## Selected projects
+
+### Talk2Data
+
+A local data investigation workbench with tool-calling agents, schema inspection, validated read-only SQL, evidence-backed charts and dashboards. Built with Python, FastAPI, Next.js and MCP. Uses step and tool-call limits and explicit approval before MCP calls. The current README records 30 Python tests. Test counts do not establish SQL accuracy, agent task success or adoption.
+
+https://github.com/shabeeth2/talk2data-agents
+
+### SpecExec
+
 A Python runtime that executes eligible read-only tool calls while generation streams, then replays the final script from a fresh namespace and reuses exact cache hits. A local simulated benchmark on independent calls measured 764 ms to 368 ms median latency, a 51.8% reduction. This is not a production performance claim.
 
 https://github.com/shabeeth2/specexec
@@ -50,7 +91,7 @@ Python, Java, SQL, LangChain, LangGraph, Gemini on Vertex AI, OpenAI API and emb
 
 ## Education
 
-B.Tech, Artificial Intelligence and Data Science, SNS College of Engineering, Coimbatore. Graduated May 2024. CGPA: 8.56/10.
+B.Tech, Artificial Intelligence and Data Science, SNS College of Engineering, Coimbatore. Graduated May 2024. CGPA: 8.4/10.
 
 ## Certifications
 
