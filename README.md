@@ -69,7 +69,7 @@ Speculative read-only tool execution during streamed generation, with exact-cach
 
 #### [03 / Duet](https://github.com/shabeeth2/duet)
 
-A local-first editor for human-AI collaboration on HTML artifacts: annotations, revisions, feedback and review sessions.
+A tool for reviewing agent work as HTML artifacts visually, human or AI-generated: element-level annotations, chat, revisions and persistent review sessions.
 
 `Python` `FastAPI` `SSE` `Playwright`
 
@@ -77,24 +77,55 @@ A local-first editor for human-AI collaboration on HTML artifacts: annotations, 
 </tr>
 </table>
 
-### `~/open-source` · Documentation contributions
+### `~/open-source` · Open-source contributions
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [yargs / #2609](https://github.com/yargs/yargs/pull/2609)
+#### [ML-Agents](https://github.com/Unity-Technologies/ml-agents) · 19.8k stars
 
-Shell-completion install example: append to shell configuration instead of overwriting it.
+Open-source contributor: documentation fixes for the TerminalSteps guide.
 
 `documentation` `contributor`
 
 </td>
 <td width="50%" valign="top">
 
-#### [txtai / #1337](https://github.com/neuml/txtai/pull/1337)
+#### [Apprise](https://github.com/caronc/apprise) · 17.6k stars
 
-Workflow input example corrected to match the existing code sample.
+Open-source contributor: documentation fixes.
+
+`documentation` `contributor`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [txtai](https://github.com/neuml/txtai) · 13k stars
+
+Open-source contributor: workflow input example corrected to match the existing code sample.
+
+`documentation` `contributor`
+
+</td>
+<td width="50%" valign="top">
+
+#### [yargs](https://github.com/yargs/yargs) · 11.5k stars
+
+Open-source contributor: shell-completion install example that appends to shell configuration instead of overwriting it.
+
+`documentation` `contributor`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### [attrs](https://github.com/python-attrs/attrs) · 5.9k stars
+
+Open-source contributor: documentation fixes.
 
 `documentation` `contributor`
 
@@ -108,8 +139,12 @@ Workflow input example corrected to match the existing code sample.
   <a href="https://github.com/shabeeth2/talk2data-agents">Talk2Data</a> &middot;
   <a href="https://github.com/shabeeth2/specexec">SpecExec</a> &middot;
   <a href="https://github.com/shabeeth2/duet">Duet</a><br>
-  <a href="https://github.com/yargs/yargs/pull/2609">yargs #2609 - merged</a> &middot;
-  <a href="https://github.com/neuml/txtai/pull/1337">txtai #1337 - merged</a>
+  Open-source contributor to
+  <a href="https://github.com/Unity-Technologies/ml-agents">ML-Agents</a> &middot;
+  <a href="https://github.com/caronc/apprise">Apprise</a> &middot;
+  <a href="https://github.com/neuml/txtai">txtai</a> &middot;
+  <a href="https://github.com/yargs/yargs">yargs</a> &middot;
+  <a href="https://github.com/python-attrs/attrs">attrs</a>
 </p>
 <p align="center"><a href="https://linkedin.com/in/shabeeth">LinkedIn</a></p>
 
@@ -139,7 +174,7 @@ Employment: Tata Consultancy Services, Sep 2024 - Present.
 
 ### Talk2Data
 
-A local data investigation workbench with tool-calling agents, schema inspection, validated read-only SQL, evidence-backed charts and dashboards. Built with Python, FastAPI, Next.js and MCP. Uses step and tool-call limits and explicit approval before MCP calls. The current README records 30 Python tests. Test counts do not establish SQL accuracy, agent task success or adoption.
+A local data investigation workbench with tool-calling agents, schema inspection, validated read-only SQL, evidence-backed charts and dashboards. Built with Python, FastAPI, Next.js and MCP. Uses step and tool-call limits and explicit approval before MCP calls.
 
 https://github.com/shabeeth2/talk2data-agents
 
@@ -148,6 +183,20 @@ https://github.com/shabeeth2/talk2data-agents
 A Python runtime that executes eligible read-only tool calls while generation streams, then replays the final script from a fresh namespace and reuses exact cache hits. A local simulated benchmark on independent calls measured 764 ms to 368 ms median latency, a 51.8% reduction. This is not a production performance claim.
 
 https://github.com/shabeeth2/specexec
+
+### Duet
+
+A tool for reviewing agent work as HTML artifacts visually, human or AI-generated. Review sessions track element-level annotations, chat, revisions and approval, with live updates, layout checks and a self-contained HTML export.
+
+https://github.com/shabeeth2/duet
+
+### Open-source contributions
+
+- Open-source contributor to [ML-Agents](https://github.com/Unity-Technologies/ml-agents) (19.8k stars): documentation fixes for the TerminalSteps guide.
+- Open-source contributor to [Apprise](https://github.com/caronc/apprise) (17.6k stars): documentation fixes.
+- Open-source contributor to [txtai](https://github.com/neuml/txtai) (13k stars): workflow input example corrected to match the existing code sample.
+- Open-source contributor to [yargs](https://github.com/yargs/yargs) (11.5k stars): shell-completion installation example corrected to append instead of overwriting shell configuration.
+- Open-source contributor to [attrs](https://github.com/python-attrs/attrs) (5.9k stars): documentation fixes.
 
 ## Skills
 
@@ -166,17 +215,6 @@ B.Tech, Artificial Intelligence and Data Science, SNS College of Engineering, Co
 ## Connect
 
 https://linkedin.com/in/shabeeth
-
-### Duet
-
-A local-first editor for human-AI collaboration on HTML artifacts. Review sessions track annotations, revisions, feedback, agent messages and approval.
-
-https://github.com/shabeeth2/duet
-
-### Open-source contributions
-
-- [yargs/yargs #2609](https://github.com/yargs/yargs/pull/2609), merged 4 Oct 2026: shell-completion installation example corrected to append instead of overwriting shell configuration.
-- [neuml/txtai #1337](https://github.com/neuml/txtai/pull/1337), merged 5 Oct 2026: workflow input example corrected to match the existing code sample.
 
 ### Language Stack methodology
 
