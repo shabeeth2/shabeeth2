@@ -1,223 +1,100 @@
-```text
-╭────────────────────────────────────────────────────────────────╮
-│ ● ● ●  profile.sh                                              │
-├────────────────────────────────────────────────────────────────┤
-│ shabeeth2@github:~$ ./whoami                                   │
-│                                                                │
-│  __  __  ___  _  _   _   __  __ ___ ___                        │
-│ |  \/  |/ _ \| || | /_\ |  \/  | __|   \                       │
-│ | |\/| | (_) | __ |/ _ \| |\/| | _|| |) |                      │
-│ |_|  |_|\___/|_||_/_/ \_\_|  |_|___|___/                       │
-│                                                                │
-│                                                                │
-│  ___ _  _   _   ___ ___ ___ _____ _  _                         │
-│ / __| || | /_\ | _ ) __| __|_   _| || |                        │
-│ \__ \ __ |/ _ \| _ \ _|| _|  | | | __ |                        │
-│ |___/_||_/_/ \_\___/___|___| |_| |_||_|                        │
-│                                                                │
-│                                                                │
-│ AI Engineer  /  RAG + agents + backend                         │
-│ Chennai, India  /  TCS                                         │
-╰────────────────────────────────────────────────────────────────╯
-```
+<!-- Profile README for shabeeth2/shabeeth2 -->
 
-### `~/stack` · Technology stack
+<div align="center">
 
-```text
-LANGUAGES  Python · Java · SQL
-AI         LangChain · LangGraph · MCP
-RAG        Gemini · Vertex AI Vector Search · RAGAS
-API / DATA FastAPI · Spring Boot · PostgreSQL
-DELIVERY   Docker · Jenkins · GitHub Actions · Git
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shabeeth&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mohamed%20Shabeeth%20N&descAlignY=60&descSize=18" alt="Mohamed Shabeeth N banner" width="100%" />
 
-### `~/languages` · Public repository code
+<a href="https://github.com/shabeeth2">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&height=45&lines=AI+Engineer+%C2%B7+Chennai%2C+India;Agentic+RAG+%26+tool-calling+systems;LLM+applications+%26+backend+AI+services" alt="Typing animation: AI Engineer, agentic RAG, tool-calling systems, LLM applications" />
+</a>
 
-```text
-Python  /  Jupyter Notebook  /  TypeScript  /  JavaScript  /  Java
-```
+<br/>
 
-Python and notebooks lead the public repository list. Languages describe
-code, not skill proficiency. SQL is listed above as a skill, not a GitHub
-primary-language percentage.
+[
 
-### `~/projects` · Personal builds
+![Portfolio](https://img.shields.io/badge/Portfolio-shabeeth.netlify.app-58A6FF?style=for-the-badge&logo=netlify&logoColor=white)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+](https://shabeeth.netlify.app/)
+[
 
-#### [01 / Talk2Data](https://github.com/shabeeth2/talk2data-agents)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-shabeeth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-Data investigation with tool-calling agents, read-only SQL and evidence-backed dashboards.
+](https://linkedin.com/in/shabeeth)
 
-`Python` `FastAPI` `Next.js` `MCP`
-
-</td>
-<td width="50%" valign="top">
-
-#### [02 / SpecExec](https://github.com/shabeeth2/specexec)
-
-Speculative read-only tool execution during streamed generation, with exact-cache reuse and final-script replay.
-
-`Python` `asyncio` `AST`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-#### [03 / Duet](https://github.com/shabeeth2/duet)
-
-A tool for reviewing agent work as HTML artifacts visually, human or AI-generated: element-level annotations, chat, revisions and persistent review sessions.
-
-`Python` `FastAPI` `SSE` `Playwright`
-
-</td>
-</tr>
-</table>
-
-### `~/open-source` · Open-source contributions
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### [ML-Agents](https://github.com/Unity-Technologies/ml-agents) · 19.8k stars
-
-Open-source contributor: documentation fixes for the TerminalSteps guide.
-
-`documentation` `contributor`
-
-</td>
-<td width="50%" valign="top">
-
-#### [Apprise](https://github.com/caronc/apprise) · 17.6k stars
-
-Open-source contributor: documentation fixes.
-
-`documentation` `contributor`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [txtai](https://github.com/neuml/txtai) · 13k stars
-
-Open-source contributor: workflow input example corrected to match the existing code sample.
-
-`documentation` `contributor`
-
-</td>
-<td width="50%" valign="top">
-
-#### [yargs](https://github.com/yargs/yargs) · 11.5k stars
-
-Open-source contributor: shell-completion install example that appends to shell configuration instead of overwriting it.
-
-`documentation` `contributor`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-#### [attrs](https://github.com/python-attrs/attrs) · 5.9k stars
-
-Open-source contributor: documentation fixes.
-
-`documentation` `contributor`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/shabeeth2/talk2data-agents">Talk2Data</a> &middot;
-  <a href="https://github.com/shabeeth2/specexec">SpecExec</a> &middot;
-  <a href="https://github.com/shabeeth2/duet">Duet</a><br>
-  Open-source contributor to
-  <a href="https://github.com/Unity-Technologies/ml-agents">ML-Agents</a> &middot;
-  <a href="https://github.com/caronc/apprise">Apprise</a> &middot;
-  <a href="https://github.com/neuml/txtai">txtai</a> &middot;
-  <a href="https://github.com/yargs/yargs">yargs</a> &middot;
-  <a href="https://github.com/python-attrs/attrs">attrs</a>
-</p>
-<p align="center"><a href="https://linkedin.com/in/shabeeth">LinkedIn</a></p>
+## 👋 Hi, I'm Shabeeth
 
-<details>
-<summary>About, project details, skills and qualifications</summary>
+I'm an AI Engineer at **TCS** (since September 2024), working on production agent systems with a focus on **agentic RAG applications**: retrieval, prompts, guardrails, evaluation, and tool-calling workflows. My part is the AI application layer, not the surrounding infrastructure.
 
-# Mohamed Shabeeth N
+🏆 **TCS AI Fridays Innovator Award Winner, 2025**
+🎓 B.Tech in Artificial Intelligence & Data Science, SNS College of Engineering · CGPA 8.4
 
-AI Engineer at Tata Consultancy Services, Chennai, India.
+---
 
-## About me
+## 🚀 Selected projects
 
-I build AI application components for production enterprise RAG and backend integrations. My RAG work covers retrieval, prompts, grounding checks, guardrails and evaluation using LangChain, Gemini and Vertex AI Vector Search. My contribution is the AI application layer, not cloud infrastructure or operations ownership.
+### 🔎 [Talk2Data](https://github.com/shabeeth2/talk2data-agents)
+A data investigation workbench. Import files or connect SQL, ask questions, inspect the calculations and SQL behind each answer, and save dashboards that re-run when the data changes. SQL must validate as a read-only `SELECT`, and MCP calls show their arguments and need explicit approval. It is not fully autonomous.
+`Next.js` · `Vercel AI SDK` · `AI Elements` · `FastAPI` · `Python`
 
-I also build Java and Spring Boot modules with Kafka for production data migration and synchronization, and work on regression validation for migration releases. My ticket-assistance work is a prototype, with classification, similar-case retrieval and human review.
+### ⚡ [SpecExec](https://github.com/shabeeth2/specexec)
+A Python runtime for speculative read-only tool execution during streamed LLM generation. It detects complete tool statements, precomputes eligible calls, then replays the finished program from a fresh namespace with exact cached results. Speculation only saves waiting and is never required for correctness. It doesn't predict tools or guess arguments.
+`Python`
 
-Employment: Tata Consultancy Services, Sep 2024 - Present.
+### 🎨 [Duet](https://github.com/shabeeth2/duet)
+A visual review tool for agent work and HTML artifacts. It has element-level annotations, human-agent chat, persistent sessions, revisions, approval tracking, layout checks, and self-contained HTML export. It's a review interface, not an autonomous agent, with optional hooks for Claude Code.
+`Python` · `FastAPI` · `HTML/CSS/JS`
 
-## Highlights
+---
 
-- Winner, AI Fridays Innovator Award, TCS (2025).
-- On the Spot (Team) Award, TCS, 3 Mar 2026, for a rapid prototype built and presented as a team.
-- tcsAI Idea Igniter, TCS, 4 Nov 2025: hackathon idea selected among top entries.
-- Delivered GenAI and AI engineering sessions for TCS associates.
+## 🧰 Tech stack
 
-## Selected projects
+<div align="center">
 
-### Talk2Data
+**AI / Agents**
+LangGraph · LangChain · MCP · RAG · Tool calling · LLM evaluation
 
-A local data investigation workbench with tool-calling agents, schema inspection, validated read-only SQL, evidence-backed charts and dashboards. Built with Python, FastAPI, Next.js and MCP. Uses step and tool-call limits and explicit approval before MCP calls.
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,azure&perline=4" alt="Backend and data: Python, FastAPI, PostgreSQL, Azure" />
 
-https://github.com/shabeeth2/talk2data-agents
+**Backend / data:** Python · FastAPI · PostgreSQL · Azure AI Search
 
-### SpecExec
+<img src="https://skillicons.dev/icons?i=nextjs,ts,vercel&perline=3" alt="Frontend: Next.js, TypeScript, Vercel" />
 
-A Python runtime that executes eligible read-only tool calls while generation streams, then replays the final script from a fresh namespace and reuses exact cache hits. A local simulated benchmark on independent calls measured 764 ms to 368 ms median latency, a 51.8% reduction. This is not a production performance claim.
+**Frontend:** Next.js · TypeScript · Vercel AI SDK & AI Elements
 
-https://github.com/shabeeth2/specexec
+<img src="https://skillicons.dev/icons?i=java,spring&perline=2" alt="Also: Java, Spring Boot" />
 
-### Duet
+**Also:** Java · Spring Boot
 
-A tool for reviewing agent work as HTML artifacts visually, human or AI-generated. Review sessions track element-level annotations, chat, revisions and approval, with live updates, layout checks and a self-contained HTML export.
+</div>
 
-https://github.com/shabeeth2/duet
+---
 
-### Open-source contributions
+## 🤝 Open source
 
-- Open-source contributor to [ML-Agents](https://github.com/Unity-Technologies/ml-agents) (19.8k stars): documentation fixes for the TerminalSteps guide.
-- Open-source contributor to [Apprise](https://github.com/caronc/apprise) (17.6k stars): documentation fixes.
-- Open-source contributor to [txtai](https://github.com/neuml/txtai) (13k stars): workflow input example corrected to match the existing code sample.
-- Open-source contributor to [yargs](https://github.com/yargs/yargs) (11.5k stars): shell-completion installation example corrected to append instead of overwriting shell configuration.
-- Open-source contributor to [attrs](https://github.com/python-attrs/attrs) (5.9k stars): documentation fixes.
+I've contributed documentation fixes and corrections to:
 
-## Skills
+- [ML-Agents](https://github.com/Unity-Technologies/ml-agents): TerminalSteps guide
+- [Apprise](https://github.com/caronc/apprise): documentation fixes
+- [txtai](https://github.com/neuml/txtai): workflow input example corrected to match the code sample
+- [yargs](https://github.com/yargs/yargs): shell-completion example now appends to shell config instead of overwriting it
+- [attrs](https://github.com/python-attrs/attrs): documentation fixes
 
-Python, Java, SQL, LangChain, LangGraph, Gemini on Vertex AI, OpenAI API and embeddings, Vertex AI Vector Search, ChromaDB, hybrid retrieval, reranking, RAGAS, FastAPI, Spring Boot, Kafka, Docker, Jenkins, GitHub Actions, Redis, Grafana, Linux and Git.
+---
 
-## Education
+## 📜 Certifications
 
-B.Tech, Artificial Intelligence and Data Science, SNS College of Engineering, Coimbatore. Graduated May 2024. CGPA: 8.4/10.
+Claude Certified Architect – Professional (Anthropic) · Google Cloud Generative AI Leader · Microsoft Azure AI Fundamentals (AI-900)
 
-## Certifications
+---
 
-- Claude Certified Architect - Professional, Anthropic. Issued Aug 2026; valid through Aug 2027.
-- Google Cloud Generative AI Leader. Issued Feb 2026.
-- Microsoft Certified: Azure AI Fundamentals (AI-900). Issued May 2024.
+<div align="center">
 
-## Connect
+**[🌐 Portfolio](https://shabeeth.netlify.app/)** · **[GitHub](https://github.com/shabeeth2)** · **[LinkedIn](https://linkedin.com/in/shabeeth)**
 
-https://linkedin.com/in/shabeeth
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="" width="100%" />
 
-### Language Stack methodology
-
-Snapshot: 5 Oct 2026. GitHub language-byte shares are normalized inside each public, non-fork repository with detected code, then averaged with equal repository weight (23 repos). Repositories without detected code are excluded. This chart describes code composition, not skill or proficiency. Other includes HTML, JavaScript and Shell. Bars are static until regenerated.
-
-</details>
+</div>
